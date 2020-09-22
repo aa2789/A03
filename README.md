@@ -1,5 +1,18 @@
 # A03
-## Directions on using Webstorm
+## Directions for using Git/Webstorm/Github
+<h3>Git and Github</h3>
+<p> <b>GitHub</b> is the single largest host for Git repositories. In order to se it up, you simply have to create a new account. <b>Git</b> is a version control system that ensures there is no code conflicts between developers. To begin using git, you need to fist install it and make a github account.
+  When creating a new project on Git, you need to first create a new <b>repository</b>. Once a file has been added to the project, it can be edited and the changes can be saved using the <b>commit</b> command. If you don't want to finalize changes to your main project, you can <b>branch</b> the project. Branches allow you to move back and forth between states of a project. <b> Cloning</b> is also a way to make edits without affecting the final version. Once you're satisfied with the changes made, you can <b> merge</b> the changes into the primary branch. Using the <b> push</b> command allows other people
+  to see the changes that have been made. A <b> pull</b> request is a way to alert a repository's owner that you want to make some changes to their code.
+</p>
+<h3> Webstorm</h3>
+<p>Webstorm is a popular IDE for modern javascript development. It provides full support for javascript, html and css. In order to connect github with Webstorm, 
+go to system preferences, select Version Control Git and enter the path to the git.exe file. In order to import a repository from Github, select checkout from version control
+and choose git.After making changes on webstorm, you can commit the changes and push changes to the github repository, which will add the file to github. 
+  
+  </p>
+
+
 
 
 
