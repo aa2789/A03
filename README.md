@@ -13,21 +13,6 @@ and choose git.After making changes on webstorm, you can commit the changes and 
   </p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Glossary
 * <b>Branch</b>- A branch is a copy of a repository. It is contained within the repository but does not affect the master branch. This allows for the ability to work without disrupting the live version. After changes in the branch have been made, it can be merged with the master branch to publish the changes.
 
@@ -52,3 +37,11 @@ and choose git.After making changes on webstorm, you can commit the changes and 
 * <b>Remote</b>-is the version of a repository or branch that is hosted on a server.
 
 * <b> Repository</b>-a repository is like a project's folder, which contains all of the project's files. Repositories can have multiple collaborators and can be either public or private.
+
+
+<h3>Sources</h3>
+<ul>
+  <li>https://git-scm.com/docs/gittutorial</li>
+  <li>https://guides.github.com/introduction/git-handbook/</li>
+</ul>
+
